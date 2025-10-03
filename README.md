@@ -8,7 +8,7 @@ Actualmente estoy terminando un **bootcamp de Machine Learning**, buscando integ
 ## 🚀 Sobre mí  
 
 - 🎓 Docente de matemáticas con trayectoria en enseñanza a estudiantes de 15 a 17 años.  
-- 🐧 Usuario de **Linux desde hace más de 10 años**, con interés en certificaciones **LPIC-101 y LPIC-102** para administración de servidores.  
+- 🐧 Usuario de **Linux desde hace más de 10 años**, con interés en certificaciones **LPIC-101 y LPIC-102** para administración de servidores. Participé como instalador voluntario en algunas versiones de la **Flisol** realizadas en Valparaíso y Viña del Mar.
 - 🌐 Experiencia en creación de páginas web con **Joomla, HTML y CSS**.  
 - 📚 Implementación y administración de **aulas virtuales Moodle**.  
 - 🖧 Diseño e implementación de **redes escolares con Edubuntu**.  
@@ -37,6 +37,8 @@ Actualmente estoy terminando un **bootcamp de Machine Learning**, buscando integ
 
 ## 📫 Contacto  
 
-*(Aquí puedes agregar tus links de LinkedIn, correo o X cuando quieras)*  
+- E-mail: harrue.ds@gmail.com
+- LinkedIn: https://www.linkedin.com/in/henzo-arru%C3%A9-mu%C3%B1oz/
+- Kaggle: https://www.kaggle.com/harrueds
 
 ---
