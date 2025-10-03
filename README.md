@@ -47,6 +47,13 @@ Actualmente estoy terminando un **bootcamp de Machine Learning**, buscando integ
 
 ---
 
-## Otras páginas
+## Otras cosas
 
 - DockerHub: https://hub.docker.com/u/harrueds
+
+---
+
+Estadísticas de lenguajes:
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
+
