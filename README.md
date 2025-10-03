@@ -55,5 +55,4 @@ Actualmente estoy terminando un **bootcamp de Machine Learning**, buscando integ
 
 Estadísticas de lenguajes:
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=harrueds&layout=compact&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=harrueds&layout=compact&theme=algolia)]
