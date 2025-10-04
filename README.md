@@ -13,7 +13,8 @@ Actualmente estoy terminando un **bootcamp de Machine Learning**, buscando integ
 - 📚 Implementación y administración de **aulas virtuales Moodle**.
 - 🖧 Diseño e implementación de **redes escolares con Edubuntu**.
 - 💻 Experiencia en programación con **C y Python** (aplicaciones educativas, estadísticas y machine learning).
-- 📊 Uso de **R, Python y Google Colab** para enseñanza de estadística en nivel escolar.
+- 📊 Uso de **R, Python y Google Colab** para enseñanza de estadística en nivel escolar en enseñanza media.
+- 📚 Uso de **ChatGPT** y **Gemini** para el estudio analítico de matemáticas en el nivel escolar de enseñanza media.
 
 ---
 
@@ -33,7 +34,7 @@ Actualmente estoy terminando un **bootcamp de Machine Learning**, buscando integ
 - 📊 Analítica de datos y estadística aplicada a procesos de enseñanza-aprendizaje utilizando R, python y Google Colab.
 - 🐧 Continuar profundizando en **administración de sistemas Linux**.
 - Bases de datos relacionales y no relacionales.
-- Despliqgue de API's.
+- Despliegue de API's.
 - Dockerización.
 - CI/CD en GitHub Actions.
 
