@@ -1,11 +1,11 @@
-# 👋 Hola, soy Henzo Alejandro Arrué Muñoz
+# Henzo Alejandro Arrué Muñoz
 
 Soy **profesor de enseñanza media en matemática y estadística** con más de 20 años de experiencia docente.  
 Actualmente estoy terminando un **bootcamp de Machine Learning**, buscando integrar mi formación en educación con nuevas tecnologías de análisis y predicción de datos.
 
 ---
 
-## 🚀 Sobre mí
+## Sobre mí
 
 - 🎓 Docente de matemáticas con trayectoria en enseñanza a estudiantes de 15 a 17 años.
 - 🐧 Usuario de **Linux desde hace más de 10 años**, con interés en certificaciones **LPIC-101 y LPIC-102** para administración de servidores. Participé como instalador voluntario en algunas versiones de la **Flisol** realizadas en Valparaíso y Viña del Mar.
@@ -42,18 +42,19 @@ Actualmente estoy terminando un **bootcamp de Machine Learning**, buscando integ
 
 ## 📫 Contacto
 
-- E-mail: harrue.ds@gmail.com
-- LinkedIn: https://www.linkedin.com/in/henzo-arru%C3%A9-mu%C3%B1oz/
+- E-mail: [harrue.ds@gmail.com](mailto:harrue.ds@gmail.com)
+- LinkedIn: [linkedin.com/in/henzo-arrué-muñoz](https://www.linkedin.com/in/henzo-arru%C3%A9-mu%C3%B1oz/)
 
 ---
 
 ## Otras cosas
 
-- DockerHub: https://hub.docker.com/u/harrueds
-- Kaggle: https://www.kaggle.com/harrueds
+- DockerHub: [hub.docker.com/u/harrueds](https://hub.docker.com/u/harrueds)
+- Kaggle: [kaggle.com/harrueds](https://www.kaggle.com/harrueds)
 
 ---
 
-Estadísticas de lenguajes:
+![Lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?username=harrueds&theme=synthwave&show_icons=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=harrueds&layout=compact&theme=algolia)
+![Estadísticas](https://github-readme-stats.vercel.app/api?username=harrueds&theme=synthwave&show_icons=true)
+
