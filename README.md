@@ -44,13 +44,13 @@ Actualmente estoy terminando un **bootcamp de Machine Learning**, buscando integ
 
 - E-mail: harrue.ds@gmail.com
 - LinkedIn: https://www.linkedin.com/in/henzo-arru%C3%A9-mu%C3%B1oz/
-- Kaggle: https://www.kaggle.com/harrueds
 
 ---
 
 ## Otras cosas
 
 - DockerHub: https://hub.docker.com/u/harrueds
+- Kaggle: https://www.kaggle.com/harrueds
 
 ---
 
