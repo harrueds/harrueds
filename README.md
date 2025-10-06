@@ -1,4 +1,4 @@
-# Henzo Alejandro Arrué Muñoz
+# Henzo Alejandro Arrué Muñoz ([GitHubPage](https://harrueds.github.io))
 
 Soy **profesor de enseñanza media en matemática y estadística** con más de 20 años de experiencia docente.  
 Actualmente estoy terminando un **bootcamp de Machine Learning**, buscando integrar mi formación en educación con nuevas tecnologías de análisis y predicción de datos.
@@ -54,7 +54,11 @@ Actualmente estoy terminando un **bootcamp de Machine Learning**, buscando integ
 
 ---
 
-![Lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?username=harrueds&theme=synthwave&show_icons=true)
+<div align = "center">
+  <h2>Estadísticas</h2>
+  
+  ![Lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?username=harrueds&theme=synthwave&show_icons=true)
+  
+  ![Estadísticas](https://github-readme-stats.vercel.app/api?username=harrueds&theme=synthwave&show_icons=true)
 
-![Estadísticas](https://github-readme-stats.vercel.app/api?username=harrueds&theme=synthwave&show_icons=true)
-
+</div>
