@@ -1,24 +1,22 @@
 # Henzo Alejandro Arrué Muñoz ([GitHubPage](https://harrueds.github.io))
 
-Soy **profesor de enseñanza media en matemática y estadística** con más de 20 años de experiencia docente.  
-Actualmente estoy terminando un **bootcamp de Machine Learning**, buscando integrar mi formación en educación con nuevas tecnologías de análisis y predicción de datos.
+Especialista en **Machine Learning**  y análisis de datos, con sólida formación en matemáticas y estadística aplicada. Poseo experiencia en el desarrollo de modelos predictivos, procesamiento de datos y despliegue de aplicaciones basadas en aprendizaje automático.
 
 ---
 
 ## Sobre mí
 
-- 🎓 Docente de matemáticas con trayectoria en enseñanza a estudiantes de 15 a 17 años.
-- 🐧 Usuario de **Linux desde hace más de 10 años**, con interés en certificaciones **LPIC-101 y LPIC-102** para administración de servidores. Participé como instalador voluntario en algunas versiones de la **Flisol** realizadas en Valparaíso y Viña del Mar.
-- 🌐 Experiencia en creación de páginas web con **Joomla, HTML y CSS**.
-- 📚 Implementación y administración de **aulas virtuales Moodle**.
-- 🖧 Diseño e implementación de **redes escolares con Edubuntu**.
-- 💻 Experiencia en programación con **C y Python** (aplicaciones educativas, estadísticas y machine learning).
-- 📊 Uso de **R, Python y Google Colab** para enseñanza de estadística en nivel escolar en enseñanza media.
-- 📚 Uso de **ChatGPT** y **Gemini** para el estudio analítico de matemáticas en el nivel escolar de enseñanza media.
+- Usuario de **Linux desde hace más de 10 años**, con interés en certificaciones **LPIC-101 y LPIC-102** para administración de servidores. Participé como instalador voluntario en algunas versiones de la **Flisol** realizadas en Valparaíso y Viña del Mar.
+- Experiencia en creación de páginas web con **Joomla, HTML y CSS**.
+- Docente de matemáticas con trayectoria en enseñanza a estudiantes de 15 a 17 años.
+- Implementación y administración de **aulas virtuales Moodle**.
+- Diseño e implementación de **redes escolares con Edubuntu**.
+- Experiencia en programación con **C y Python** (aplicaciones educativas, estadísticas y machine learning).
+- Uso de **R, Python y Google Colab** para enseñanza de estadística en nivel escolar.
 
 ---
 
-## 🧰 Tecnologías y herramientas
+## Tecnologías y herramientas
 
 - **Lenguajes:** Python, R, C, HTML, CSS
 - **Machine Learning:** scikit-learn, pandas, numpy, matplotlib, Google Colab
@@ -28,29 +26,29 @@ Actualmente estoy terminando un **bootcamp de Machine Learning**, buscando integ
 
 ---
 
-## 🎯 Intereses actuales
+## Intereses actuales
 
-- 🤖 Desarrollar proyectos en **Machine Learning aplicados a la educación**.
-- 📊 Analítica de datos y estadística aplicada a procesos de enseñanza-aprendizaje utilizando R, python y Google Colab.
-- 🐧 Continuar profundizando en **administración de sistemas Linux**.
+- Desarrollar proyectos en **Machine Learning aplicados a la educación**.
+- Analítica de datos y estadística aplicada a procesos de enseñanza-aprendizaje utilizando R, python y Google Colab.
+- Continuar profundizando en **administración de sistemas Linux**.
 - Bases de datos relacionales y no relacionales.
-- Despliegue de API's.
+- Despliqgue de API's.
 - Dockerización.
 - CI/CD en GitHub Actions.
 
 ---
 
-## 📫 Contacto
+## Contacto
 
-- E-mail: [harrue.ds@gmail.com](mailto:harrue.ds@gmail.com)
-- LinkedIn: [linkedin.com/in/henzo-arrué-muñoz](https://www.linkedin.com/in/henzo-arru%C3%A9-mu%C3%B1oz/)
+- E-mail: harrue.ds@gmail.com
+- LinkedIn: https://www.linkedin.com/in/henzo-arru%C3%A9-mu%C3%B1oz/
 
 ---
 
-## Otras cosas
+## Otras páginas
 
-- DockerHub: [hub.docker.com/u/harrueds](https://hub.docker.com/u/harrueds)
-- Kaggle: [kaggle.com/harrueds](https://www.kaggle.com/harrueds)
+- DockerHub: https://hub.docker.com/u/harrueds
+- Kaggle: https://www.kaggle.com/harrueds
 
 ---
 
