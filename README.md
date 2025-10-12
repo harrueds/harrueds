@@ -1,4 +1,4 @@
-# Soy Henzo Alejandro Arrué Muñoz
+# Henzo Alejandro Arrué Muñoz ([GitHubPage](https://harrueds.github.io))
 
 Especialista en **Machine Learning**  y análisis de datos, con sólida formación en matemáticas y estadística aplicada. Poseo experiencia en el desarrollo de modelos predictivos, procesamiento de datos y despliegue de aplicaciones basadas en aprendizaje automático.
 
@@ -49,3 +49,14 @@ Especialista en **Machine Learning**  y análisis de datos, con sólida formaci�
 
 - DockerHub: https://hub.docker.com/u/harrueds
 - Kaggle: https://www.kaggle.com/harrueds
+
+---
+
+<div align = "center">
+  <h2>Estadísticas</h2>
+  
+  ![Lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?username=harrueds&theme=synthwave&show_icons=true)
+  
+  ![Estadísticas](https://github-readme-stats.vercel.app/api?username=harrueds&theme=synthwave&show_icons=true)
+
+</div>
