@@ -1,51 +1,51 @@
 # Henzo Alejandro Arrué Muñoz ([GitHubPage](https://harrueds.github.io))
 
-Especialista en **Machine Learning**  y análisis de datos, con sólida formación en matemáticas y estadística aplicada. Poseo experiencia en el desarrollo de modelos predictivos, procesamiento de datos y despliegue de aplicaciones basadas en aprendizaje automático.
+Specialist in **Machine Learning** and data analysis, with solid background in mathematics and applied statistics. I have experience in the development of predictive models, data processing, and deployment of machine learning-based applications.
 
 ---
 
-## Sobre mí
+## About me
 
-- Usuario de **Linux desde hace más de 10 años**, con interés en certificaciones **LPIC-101 y LPIC-102** para administración de servidores. Participé como instalador voluntario en algunas versiones de la **Flisol** realizadas en Valparaíso y Viña del Mar.
-- Experiencia en creación de páginas web con **Joomla, HTML y CSS**.
-- Docente de matemáticas con trayectoria en enseñanza a estudiantes de 15 a 17 años.
-- Implementación y administración de **aulas virtuales Moodle**.
-- Diseño e implementación de **redes escolares con Edubuntu**.
-- Experiencia en programación con **C y Python** (aplicaciones educativas, estadísticas y machine learning).
-- Uso de **R, Python y Google Colab** para enseñanza de estadística en nivel escolar.
+- **Linux user for more than 10 years**, with interest in **LPIC-101 and LPIC-102 certifications** for server administration. I participated as a volunteer installer in some versions of **Flisol** held in Valparaíso and Viña del Mar.
+- Experience in creating web pages with **Joomla, HTML, and CSS**.
+- Mathematics teacher with a trajectory in teaching students aged 15 to 17 years.
+- Implementation and administration of **Moodle virtual classrooms**.
+- Design and implementation of **school networks with Edubuntu**.
+- Experience in programming with **C and Python** (educational applications, statistics, and machine learning).
+- Use of **R, Python, and Google Colab** for teaching statistics at school level.
 
 ---
 
-## Tecnologías y herramientas
+## Technologies and tools
 
-- **Lenguajes:** Python, R, C, HTML, CSS
+- **Languages:** Python, R, C, HTML, CSS
 - **Machine Learning:** scikit-learn, pandas, numpy, matplotlib, Google Colab
-- **Linux & SysAdmin:** Debian, Ubuntu, LPIC en camino
-- **Educación:** Moodle, Edubuntu, metodologías activas en matemáticas y estadística
+- **Linux & SysAdmin:** Debian, Ubuntu, LPIC in progress
+- **Education:** Moodle, Edubuntu, active methodologies in mathematics and statistics
 - **Web:** Joomla, HTML, CSS
 
 ---
 
-## Intereses actuales
+## Current interests
 
-- Desarrollar proyectos en **Machine Learning aplicados a la educación**.
-- Analítica de datos y estadística aplicada a procesos de enseñanza-aprendizaje utilizando R, python y Google Colab.
-- Continuar profundizando en **administración de sistemas Linux**.
-- Bases de datos relacionales y no relacionales.
-- Despliqgue de API's.
-- Dockerización.
-- CI/CD en GitHub Actions.
+- Develop projects in **Machine Learning applied to education**.
+- Data analytics and statistics applied to teaching-learning processes using R, Python, and Google Colab.
+- Continue deepening my knowledge in **Linux systems administration**.
+- Relational and non-relational databases.
+- API deployment.
+- Dockerization.
+- CI/CD on GitHub Actions.
 
 ---
 
-## Contacto
+## Contact
 
 - E-mail: harrue.ds@gmail.com
 - LinkedIn: https://www.linkedin.com/in/henzo-arru%C3%A9-mu%C3%B1oz/
 
 ---
 
-## Otras páginas
+## Other pages
 
 - DockerHub: https://hub.docker.com/u/harrueds
 - Kaggle: https://www.kaggle.com/harrueds
@@ -53,10 +53,10 @@ Especialista en **Machine Learning**  y análisis de datos, con sólida formaci�
 ---
 
 <div align = "center">
-  <h2>Estadísticas</h2>
+  <h2>Statistics</h2>
   
-  ![Lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?username=harrueds&theme=synthwave&show_icons=true)
+  ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=harrueds&theme=synthwave&show_icons=true)
   
-  ![Estadísticas](https://github-readme-stats.vercel.app/api?username=harrueds&theme=synthwave&show_icons=true)
+  ![Statistics](https://github-readme-stats.vercel.app/api?username=harrueds&theme=synthwave&show_icons=true)
 
 </div>
