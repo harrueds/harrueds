@@ -1,62 +1,81 @@
-# Henzo Alejandro Arrué Muñoz ([GitHubPage](https://harrueds.github.io))
+# Henzo Alejandro Arrué Muñoz
+([GitHub Pages](https://harrueds.github.io))
 
-Specialist in **Machine Learning** and data analysis, with solid background in mathematics and applied statistics. I have experience in the development of predictive models, data processing, and deployment of machine learning-based applications.
+**Data Scientist & Machine Learning Practitioner**
+Focused on applied machine learning, data analysis, and reproducible ML workflows using **Python and Linux**.
+Interested in **end-to-end ML projects**, including model training, API deployment, Dockerization, and CI/CD automation.
 
 ---
 
 ## About me
 
-- **Linux user for more than 10 years**, with interest in **LPIC-101 and LPIC-102 certifications** for server administration. I participated as a volunteer installer in some versions of **Flisol** held in Valparaíso and Viña del Mar.
-- Experience in creating web pages with **Joomla, HTML, and CSS**.
-- Mathematics teacher with a trajectory in teaching students aged 15 to 17 years.
-- Implementation and administration of **Moodle virtual classrooms**.
-- Design and implementation of **school networks with Edubuntu**.
-- Experience in programming with **C and Python** (educational applications, statistics, and machine learning).
-- Use of **R, Python, and Google Colab** for teaching statistics at school level.
+- Strong background in **mathematics and applied statistics**, with experience building and evaluating predictive models.
+- Daily **Linux user for 10+ years** (Debian-based systems), comfortable with development, scripting, and system-level tooling.
+- Experience developing **Machine Learning APIs** and containerized services using **Flask, Docker, and GitHub Actions**.
+- Focus on **reproducible ML projects** using modern Python tooling (`src/` layout, dependency locking, CI pipelines).
+- Programming experience in **Python** (primary) and **C**.
+- Former mathematics teacher, with experience explaining complex concepts clearly and rigorously — a skill now applied to documentation and technical communication.
 
 ---
 
-## Technologies and tools
+## Technologies & tools
 
-- **Languages:** Python, R, C, HTML, CSS
-- **Machine Learning:** scikit-learn, pandas, numpy, matplotlib, Google Colab
-- **Linux & SysAdmin:** Debian, Ubuntu, LPIC in progress
-- **Education:** Moodle, Edubuntu, active methodologies in mathematics and statistics
-- **Web:** Joomla, HTML, CSS
+### Programming & Data
+- **Python**, R, C
+- pandas, numpy, scikit-learn, matplotlib
+- Jupyter / notebooks (used as exploration tools, not final artifacts)
+
+### Machine Learning & MLOps
+- Supervised learning (classification, regression)
+- Model evaluation and validation
+- Separation of training and inference pipelines
+- API-based model serving
+- Reproducible environments (`pyproject.toml`, lock files)
+- CI/CD with **GitHub Actions**
+
+### Backend & Deployment
+- Flask (ML APIs)
+- Docker & Docker Hub
+- Basic REST API design
+- Linux-based deployment workflows
+
+### Systems & Environment
+- Linux (Debian, Ubuntu)
+- Bash, CLI tooling
+- Git & GitHub
+- VS Code
 
 ---
 
 ## Current interests
 
-- Develop projects in **Machine Learning applied to education**.
-- Data analytics and statistics applied to teaching-learning processes using R, Python, and Google Colab.
-- Continue deepening my knowledge in **Linux systems administration**.
-- Relational and non-relational databases.
-- API deployment.
-- Dockerization.
-- CI/CD on GitHub Actions.
+- End-to-end **Machine Learning projects** (from data to deployment).
+- **API-first ML systems**.
+- Dockerized ML services.
+- CI/CD automation for testing and deployment.
+- Clean project structures and professional Python standards.
+- Gradually deepening knowledge in **MLOps and production ML practices**.
 
 ---
 
 ## Contact
 
-- E-mail: harrue.ds@gmail.com
-- LinkedIn: https://www.linkedin.com/in/henzo-arru%C3%A9-mu%C3%B1oz/
+- 📧 Email: harrue.ds@gmail.com
+- 💼 LinkedIn: https://www.linkedin.com/in/henzo-arrué-muñoz/
 
 ---
 
-## Other pages
+## Other profiles
 
-- DockerHub: https://hub.docker.com/u/harrueds
-- Kaggle: https://www.kaggle.com/harrueds
+- 🐳 Docker Hub: https://hub.docker.com/u/harrueds
+- 📊 Kaggle: https://www.kaggle.com/harrueds
 
 ---
 
-<div align = "center">
-  <h2>Statistics</h2>
-  
-  ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=harrueds&theme=synthwave&show_icons=true)
-  
-  ![Statistics](https://github-readme-stats.vercel.app/api?username=harrueds&theme=synthwave&show_icons=true)
+<div align="center">
+  <h2>GitHub Statistics</h2>
 
+  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=harrueds&theme=synthwave&show_icons=true)
+
+  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=harrueds&theme=synthwave&show_icons=true)
 </div>
