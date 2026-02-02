@@ -72,10 +72,12 @@ Interested in **end-to-end ML projects**, including model training, API deployme
 
 ---
 
+## GitHub Stats
 <div align="center">
-  <h2>GitHub Statistics</h2>
-
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=harrueds&theme=synthwave&show_icons=true)
-
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=harrueds&theme=synthwave&show_icons=true)
+<a href="https://github.com/Pranesh-2005/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats-fast.vercel.app/api?username=harrueds&theme=onedark" />
+</a>
+<a href="https://github.com/Pranesh-2005/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=harrueds&layout=compact&langs_count=8&card_width=320&theme=onedark" />
+</a>
 </div>
