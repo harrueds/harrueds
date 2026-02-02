@@ -75,9 +75,13 @@ Interested in **end-to-end ML projects**, including model training, API deployme
 ## GitHub Stats
 <div align="center">
 <a href="https://github.com/Pranesh-2005/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats-fast.vercel.app/api?username=harrueds&theme=onedark" />
+  <img height=200 align="center" src="https://github-readme-stats-fast.vercel.app/api?username=harrueds&layout=compact&card_width=320&theme=onedark&show_icons=true" />
 </a>
+
+<br>
+
 <a href="https://github.com/Pranesh-2005/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=harrueds&layout=compact&langs_count=8&card_width=320&theme=onedark" />
+  <img height=200 align="center" src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=harrueds&layout=compact&langs_count=8&card_width=320&theme=onedark&" />
 </a>
+
 </div>
