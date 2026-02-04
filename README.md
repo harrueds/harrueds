@@ -84,4 +84,9 @@ Interested in **end-to-end ML projects**, including model training, API deployme
   <img height=200 align="center" src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=harrueds&layout=compact&langs_count=8&card_width=320&theme=onedark&" />
 </a>
 
+<br>
+
+<a href="https://github.com/Pranesh-2005/github-readme-stats-fast?tab=readme-ov-file#wakatime-stats-card">
+  <img height=200 align=center src="https://github-readme-stats-fast.vercel.app/api/wakatime?username=harrueds&theme=onedark&show_icons=true&layout=compact&card_width=320" />
+
 </div>
