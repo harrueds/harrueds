@@ -1,6 +1,8 @@
 # Henzo Alejandro Arrué Muñoz
 ([GitHub Pages](https://harrueds.github.io))
 
+<h1><center>CURRENTLY ON BREAK DUE TO PERSONAL REASONS</center></h1>
+
 **Data Scientist & Machine Learning Practitioner**
 Focused on applied machine learning, data analysis, and reproducible ML workflows using **Python and Linux**.
 Interested in **end-to-end ML projects**, including model training, API deployment, Dockerization, and CI/CD automation.
