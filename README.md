@@ -3,7 +3,7 @@
 
 <h1><center>CURRENTLY ON BREAK DUE TO PERSONAL REASONS</center></h1>
 
-**Data Scientist & Machine Learning Practitioner**
+<!--**Data Scientist & Machine Learning Practitioner**
 Focused on applied machine learning, data analysis, and reproducible ML workflows using **Python and Linux**.
 Interested in **end-to-end ML projects**, including model training, API deployment, Dockerization, and CI/CD automation.
 
@@ -59,14 +59,14 @@ Interested in **end-to-end ML projects**, including model training, API deployme
 - Gradually deepening knowledge in **MLOps and production ML practices**.
 
 ---
-
+-->
 ## Contact
 
 - 📧 Email: harrue.ds@gmail.com
 - 💼 LinkedIn: https://www.linkedin.com/in/henzo-arrué-muñoz/
 
 ---
-
+<!--
 ## Other profiles
 
 - 🐳 Docker Hub: https://hub.docker.com/u/harrueds
@@ -92,3 +92,4 @@ Interested in **end-to-end ML projects**, including model training, API deployme
   <img height=200 align=center src="https://github-readme-stats-fast.vercel.app/api/wakatime?username=harrueds&theme=onedark&show_icons=true&layout=compact&card_width=320" />
 
 </div>
+-->
